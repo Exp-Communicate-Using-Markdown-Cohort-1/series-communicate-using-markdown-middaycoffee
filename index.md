@@ -9,4 +9,6 @@ $ git init
 trying to code here 
 
 ```
-
+- [x] Learning GitHub
+- [ ] Learning Python
+- [ ] Learning Machine Learning
